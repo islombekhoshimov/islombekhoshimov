@@ -2,7 +2,7 @@
 **Python Backend Developer | Django Specialist**
 
 📍 Tashkent, Uzbekistan <br>
-📧 islombek.hoshimov.dev@gmail.com <br>
+📧 islombekhoshimov.dev@gmail.com <br>
 🔗 LinkedIn: https://linkedin.com/in/islombek-hoshimov <br>
 💻 LeetCode: https://leetcode.com/u/hoshimov37
 
@@ -116,5 +116,5 @@ Telegram bot for managing product catalog and customer orders.
 
 If you're interested in backend development or collaboration — feel free to reach out!
 
-📧 islombek.hoshimov.dev@gmail.com
+📧 islombekhoshimov.dev@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/islombek-hoshimov)
